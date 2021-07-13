@@ -1,7 +1,6 @@
 # 📄 notion_dev_log
 
-## Results
-### 주차별 업무일지를 이렇게 작성하고있습니다.
+## 🥑 Results
 ### *주간업무일지*
 ![KakaoTalk_20210713_095750969](https://user-images.githubusercontent.com/75344302/125374375-d6fc8a00-e3c1-11eb-8b9d-b32897ceb30e.png)
 ### *일일업무일지*
